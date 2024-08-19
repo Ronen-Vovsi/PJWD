@@ -16,7 +16,7 @@ These instructions are for VScode (Visual Studio Code)
 
 6. If there are any vulnurabilities, in the terminal type: npm audit fix
 
-7. In the terminal type: npm start Click enter.
+7. In the terminal type: npm start, click enter.
 
 8. Now go to localhost:8000. Now you should be able to see the application and use it.
 
