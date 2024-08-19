@@ -6,7 +6,7 @@ These instructions are for VScode (Visual Studio Code)
    To install extentions in VScode:
    1. On the left hand side, there is an icon that looks like Tetris blocks; 3 blocks, 1 disconnected block. Click on it.
    2. On the top there should be a search box, search for EJS language support
-   3. 3. Click Install
+   3. Click Install
 
 3. Download and install NodeJS from nodejs.org
 
